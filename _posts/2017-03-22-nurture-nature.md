@@ -1,5 +1,5 @@
 ---
-image: /img/getting_started.png
+bigimg: /img/getting_started.png
 caption: 'nurture thy self'
 caption_url: 'https://www.pexels.com/'
 comments: true

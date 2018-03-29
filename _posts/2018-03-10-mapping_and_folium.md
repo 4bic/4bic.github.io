@@ -2,6 +2,7 @@
 title: 'Mapping a jogging track'
 # caption_url: ''
 image: /img/jogging.jpeg
+bigimg: /img/jogging.jpeg
 comments: true
 ---
 Python has massive capabilities in fitting well to data wrangling and manipulation tasks.

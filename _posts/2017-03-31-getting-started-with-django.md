@@ -1,4 +1,5 @@
 ---
+bigimg: /img/bird-flying-start.jpg
 image: /img/bird-flying-start.jpg
 header_caption: 'soaring the skies'
 comments: true

@@ -16,32 +16,29 @@ baseurl: ""
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-paginate_path: index.md
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Title and description of your site
 title         : Robin Kiplang'at
-description   : 'A country boy with ambitions to conqure the globe.'
-slogan        : 'of life learnings, experiences and musings'
-
-# Short description of your site
-description: A virtual proof that name is awesome!
+description   : of life learnings and musings
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Books: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "#"
+    - Medium:
+  About Me: "aboutme"
+  
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -150,6 +147,8 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
+
 
 kramdown:
   input: GFM

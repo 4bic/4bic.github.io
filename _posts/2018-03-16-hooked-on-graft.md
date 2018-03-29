@@ -1,6 +1,6 @@
 ---
 title: My beloved is hooked on graft
-image: /img/taxes.jpg
+bigimg: /img/taxes.jpg
 comments: true
 ---
 
