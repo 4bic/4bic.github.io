@@ -16,6 +16,7 @@ baseurl: ""
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
+paginate_path: index.md
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -44,7 +45,7 @@ avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+# title-img: /img/avatar-icon.png
 
 # --- Background colour/image options --- #
 
@@ -107,7 +108,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "robinkiplangat.pro"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
