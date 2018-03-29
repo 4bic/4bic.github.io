@@ -4,13 +4,20 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Robin Kiplangat. I have the following qualities:
 
-- I rock a great mustache
+- I'm looking forward to rocking a great mustache
 - I'm extremely loyal to my family
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now,
+at least I know within lies a determination and reliability to surmount obstacles, handle obligations and to endeavor for excellence in existence.
+
+The love, respect, and support of those who continue to impact values as I progress through life still holds.
+
+I seek strength that would help me balance any tendencies of turning into a self-opinionated moron.
+
+Nurtured with inborn love of nature and a desire to understand the mysteries of life, am open to new experiences and the dense diversity aspect of being.

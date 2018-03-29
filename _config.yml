@@ -27,13 +27,18 @@ description   : of life learnings and musings
 
 # List of links in the navigation bar
 navbar-links:
+  Home:
   Resources:
-    - Books: "http://deanattali.com/beautiful-jekyll/"
+    - Books: "404"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-    - Medium:
+    - Quotes: "quotes"
+
+  Blog:
+    - All Posts: "blog"
+    - Tags: "tags"
   About Me: "aboutme"
-  
+
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
