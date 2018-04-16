@@ -3,6 +3,7 @@ bigimg: /img/getting_started.png
 caption: 'nurture thy self'
 caption_url: 'https://www.pexels.com/'
 comments: true
+tags: [life-learnings]
 ---
 
  I must admit that I'm grateful for the much i've been able to accomplish and <!--more-->

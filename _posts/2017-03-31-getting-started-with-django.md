@@ -3,6 +3,7 @@ bigimg: /img/bird-flying-start.jpg
 image: /img/bird-flying-start.jpg
 header_caption: 'soaring the skies'
 comments: true
+tags: [tech, Python, django]
 ---
 In a quest of being adept at working with data, understanding a language & frameworks that works well
 with numbers manipulation is essential.

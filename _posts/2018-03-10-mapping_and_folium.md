@@ -4,6 +4,7 @@ title: 'Mapping a jogging track'
 image: /img/jogging.jpeg
 bigimg: /img/jogging.jpeg
 comments: true
+tags: [Mapping, python, pandas, numpy, data-viz]
 ---
 Python has massive capabilities in fitting well to data wrangling and manipulation tasks.
 

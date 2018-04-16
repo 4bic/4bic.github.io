@@ -2,6 +2,7 @@
 bigimg: /img/construction-work.png
 title: What's special about <em>innovating</em>?
 comments: true
+tags: [build, life]
 ---
 
 I deem it necessary that all people be willing to sound foolish and listen to other peoples ‘foolish’ ideas.

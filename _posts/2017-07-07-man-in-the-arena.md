@@ -2,6 +2,7 @@
 title: 'Man in the Arena'
 image: /img/muddy_rugby.jpeg
 comments: true
+tags: [grit, critic]
 ---
 " It is not the critic who counts;
 <!--more-->

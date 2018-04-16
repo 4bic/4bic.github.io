@@ -3,6 +3,7 @@ title: 'Generate a word cloud in R'
 # caption_url: ''
 image: /img/man-in-arena.png
 comments: true
+tags: [R, wordcloud]
 ---
 As a way of learning new ideas and skills I resolved to taking little experiments.
 

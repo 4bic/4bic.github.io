@@ -2,6 +2,7 @@
 title: My beloved is hooked on graft
 bigimg: /img/taxes.jpg
 comments: true
+tags: [corruption, civic-awareness]
 ---
 
 In light on recent theatrics it’s clear that it is all about Snorting tender after tender, the goal has been to push through to the next hit. I’ve watched yet another upsetting scandal on my newsfeed, saddening that this particular one wouldn’t matter just like the other ones, by sunrise.
@@ -16,7 +17,5 @@ Puzzled at how its possible to retain my optimism against disputing logical dedu
 
 Its yet another morning, I wake, prep up and bike out ready to battle another gruesome day in this beautiful green [city under the sun][1].
 
-
-[advice to self] its no longer about if but WHEN..
 
 [1]: https://www.google.com/maps/place/Nairobi,+Kenya/@-1.304788,36.5672003,10z/data=!3m1!4b1!4m5!3m4!1s0x182f1172d84d49a7:0xf7cf0254b297924c!8m2!3d-1.2920659!4d36.8219462

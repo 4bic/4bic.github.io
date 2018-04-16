@@ -2,7 +2,7 @@
 layout: page
 title: Welcome
 show-avatar: false
-subtitle: This is where I will tell my friends way too much about me.
+subtitle: This is where I post my occasional rants, tech, musings and life learnings.
 bigimg:
   - 'img/bacground_03.jpg':
 use-site-title: true

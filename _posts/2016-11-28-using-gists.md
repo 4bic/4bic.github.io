@@ -1,5 +1,6 @@
 ---
 title: Using Gists
+tags: [github, Gists]
 ---
 
 [Gists][1] are a great way to share your work on Github as a single files or parts of files of a tool / application.

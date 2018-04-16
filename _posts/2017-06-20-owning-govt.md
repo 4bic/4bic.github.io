@@ -4,6 +4,7 @@ image: /img/brito_shoes.png
 caption: "I shall work in this"
 # caption_url: ''
 comments: true
+tags: [governance, vote, civic-awareness]
 ---
 In order to advance, unity is important. Doing things together should be at the peak of establishing a healthy working ecosystem
 <!--more-->
