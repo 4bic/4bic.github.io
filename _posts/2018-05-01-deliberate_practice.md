@@ -1,8 +1,8 @@
 ---
 title: Is Deliberate Practice for Me.
-bigimg: /img/workers-construction.jpeg
+bigimg: /img/child-bat.jpeg
 comments: true
-tags: [python, data, data-visualization, pandas, numpy, deliberate practice]
+tags: [Self-optimization,Productivity, deliberate practice]
 ---
 
 What Lies forth in a skills journey? and is fairly ok good enough?
