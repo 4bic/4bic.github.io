@@ -2,7 +2,7 @@
 title: 6 lessons from Hard Thing about Hard Things.
 bigimg: /img/ropes.jpeg
 comments: true
-tags: [entrepreneurship, CEO, startups]
+tags: [entrepreneurship, CEO, startups, books]
 ---
 
   [Ben Horowitz] in *[Hard Thing about Hard Things]* speaks of having been brought up in a fairly conserved family and had to break off many barriers that  conflicted with his experiences as a CEO. 
