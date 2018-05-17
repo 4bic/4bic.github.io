@@ -54,13 +54,13 @@ the documentations for help.
 #####    Numpy
 
 -   Comfortable to work with.
--   Generate & manipulate arrays 
+-   Generate & manipulate arrays
 
 #####    Pandas
 
 -   Able to import [sample datasets] from Kaggle and worked some magic.
 
 
-[numpy notebook]:#
-[pandas notebook]:#
-[sample datasets]: #
+[numpy notebook]:https://github.com/4bic/deliberate_practice/blob/master/jupyter%20notebooks/numpy/Numpy%20Arrays%20%7C%20Indexing%20%7C%20operations.ipynb
+[pandas notebook]:https://github.com/4bic/deliberate_practice/blob/master/jupyter%20notebooks/Pandas/Pandas%20Exercises/Ecommerce%20Purchases%20Exercise%20.ipynb
+[sample datasets]: https://github.com/4bic/deliberate_practice/blob/master/jupyter%20notebooks/Pandas/Pandas%20Exercises/SF%20Salaries%20Exercise.ipynb
