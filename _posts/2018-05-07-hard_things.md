@@ -3,6 +3,7 @@ title: When Dreams conflict with Reality.
 bigimg: /img/ropes.jpeg
 comments: true
 tags: [entrepreneurship, CEO, startups, books]
+share-img: /img/ropes.jpeg
 ---
 
 Every individual / organizational journey has to overcome or adapt to challenges

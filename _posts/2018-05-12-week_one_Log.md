@@ -1,10 +1,10 @@
 ---
 title: Week one Log - Python,Numpy and Pandas.
-bigimg: /img/ropes.jpeg
+bigimg: /img/wk-1.jpeg
+caption: 'Photo by Miguel Á. Padriñán from Pexels'
 comments: true
 tags: [python, Numpy, Pandas]
 ---
-
 Having set out to build practice plans, for the first week,
 I had set out the following goals:
 
