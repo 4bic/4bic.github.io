@@ -139,8 +139,8 @@ So that was the third week.. 🔏
 
 [Plotly]: https://plot.ly/
 [Cufflinks]: https://github.com/santosjorge/cufflinks
-[good documentation]: #
-[Chloropleth]: #
+[good documentation]: https://nbviewer.jupyter.org/gist/santosjorge/f3b07b2be8094deea8c6
+[Chloropleth]: https://plot.ly/python/choropleth-maps/
 [find it online here]:https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf
 [Mobile-cellular telephone subscriptions]:https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2017/Mobile_cellular_2000-2016.xls
-[E.Africa mobile_subscriptions]: #
+[E.Africa mobile_subscriptions]: /notebooks/e-a-mobile_subscriptions.html
