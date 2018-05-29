@@ -182,7 +182,7 @@ df['Reason'].value_counts()
 ```jupyter
 sns.countplot(x='Reason', data= df, palette='coolwarm')
 ```
-![png](/notebooks/911_Project/output_15_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_15_1.png)
 
 
 ## Focus on time information.
@@ -251,7 +251,7 @@ df['Day_of_week'] = df['timeStamp'].apply(lambda timestamp: timestamp.weekday())
 sns.countplot(data=df, x='Day_of_week',hue='Reason')
 plt.legend(loc='center left', bbox_to_anchor=(1.0, 0.5))
 ```
-![png](/notebooks/911_Project/output_28_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_28_1.png)
 
 ### Now Countplot for Month:
 
@@ -261,7 +261,7 @@ sns.countplot(data=df, x='Month',hue='Reason')
 plt.legend(loc='center left', bbox_to_anchor=(1.0, 0.5))
 ```
 
-![png](/notebooks/911_Project/output_30_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_30_1.png)
 
 
 The dataset is missing some Months,
@@ -280,7 +280,7 @@ byMonth = df.groupby('Month').count()
 byMonth['twp'].plot()
 ```
 
-![png](/notebooks/911_Project/output_34_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_34_1.png)
 
 
 ### Create a linear fit on the number of calls per month.
@@ -291,7 +291,7 @@ byMonth['twp'].plot()
 ```jupyter
 sns.lmplot(data=byMonth.reset_index(), x='Month',y='twp')
 ```
-![png](/notebooks/911_Project/output_36_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_36_1.png)
 
 
 Create a new column called 'Date' that contains the date from the timeStamp column.
@@ -311,7 +311,7 @@ and create a plot of counts of 911 calls.
 df.groupby('Date').count()['twp'].plot()
 plt.tight_layout()
 ```
-![png](/notebooks/911_Project/output_40_0.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_40_0.png)
 
 ## Create plots representing a Reason for the 911 call
 
@@ -323,7 +323,7 @@ plt.tight_layout()
 plt.title('EMS')
 ```
 
-![png](/notebooks/911_Project/output_43_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_43_1.png)
 
 
 #### Plot representing Fire calls
@@ -332,7 +332,7 @@ df[df['Reason']=='Fire'].groupby('Date').count()['twp'].plot()
 plt.tight_layout()
 plt.title('Fire')
 ```
-![png](/notebooks/911_Project/output_44_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_44_1.png)
 
 
 #### Plot representing Traffic calls
@@ -341,7 +341,7 @@ df[df['Reason']=='Traffic'].groupby('Date').count()['twp'].plot()
 plt.tight_layout()
 plt.title('Traffic')
 ```
-![png](/notebooks/911_Project/output_45_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_45_1.png)
 
 
 ## Creating Heatmaps with Seaborn
@@ -554,7 +554,7 @@ dayHour.head()
 plt.figure(figsize=(12,6))
 sns.heatmap(dayHour, cmap='coolwarm')
 ```
-![png](/notebooks/911_Project/output_50_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_50_1.png)
 
 
 ### Create a Clustermap using this DataFrame.
@@ -563,7 +563,7 @@ sns.heatmap(dayHour, cmap='coolwarm')
 ```jupyter
 sns.clustermap(dayHour,cmap='viridis')
 ```
-![png](/notebooks/911_Project/output_52_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_52_1.png)
 
 Repeat these same plots and operations,
 
@@ -580,7 +580,7 @@ dayMonth = df.groupby(by=['Day_of_week','Month']).count()['Reason'].unstack()
 plt.figure(figsize=(12,6))
 sns.heatmap(dayMonth, cmap='coolwarm')
 ```
-![png](/notebooks/911_Project/output_55_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_55_1.png)
 
 ### Create a Clustermap by Month column
 
@@ -588,6 +588,9 @@ sns.heatmap(dayMonth, cmap='coolwarm')
 ```jupyter
 sns.clustermap(dayMonth,cmap='viridis')
 ```
-![png](/notebooks/911_Project/output_56_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_56_1.png)
 
 So that was the fourth week.. 🔏
+
+
+https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/911_Project/output_15_1.png
