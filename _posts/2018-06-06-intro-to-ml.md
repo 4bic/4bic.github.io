@@ -15,13 +15,22 @@ For more than a week, I looked at the introduction and uses of ML and lots of co
 disciplines within the field and it can get easily overwhelming.
 
 Now that I've explored the data a bit, working on advancement and furthering research on this
-is crucial at informing further what data is all about. 
+is crucial at informing further what data is all about.
 
 #### [Linear Regression].
-What I have picked up under LR
+What I have picked up under Linear Regression.
+
+Linear regression or Ordinary Least Squares (OLS) is the simplest and most classic linear method for regression.
+
+-   Linear models are models that make a prediction using a linear function of the input features.
+-   Linear models for regression can be characterized as regression models for which the prediction is a line for a single feature, a plane when using two features, or a hyperplane in higher dimensions (that is when having more features).
+
+###### Concepts
 ```jupyter
 Finding the most correlated feature with Training and Testing Data
+
 Model Training & fitting data.
+
 Predicting Test Data
 ```
 Having been able to fit a model, the next step is to evaluate its performance by predicting off the test values!
@@ -34,9 +43,9 @@ Mean Absolute Error
 Mean Squared Error  
 Root Mean Squared Error
 ```
-I am confident on how to interpret coefficients.
+In essence finding a correlation between elements is about interpreting relationships between coefficients.
 
-[Link to notebook] exercise on Linear_Regression
+[Link to notebook] with exercise on Linear_Regression
 
 So that was the Fifth week.. 🔏
 
