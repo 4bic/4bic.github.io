@@ -11,6 +11,8 @@ I took all in supplementing the depth of knowledge that I thought I'd need.
 ### What new skills have you learned?
 
 #### Machine learning.
+>    Machine Learning is a field of computer science that uses statistical techniques to give computer systems the ability to learn . . . without being explicitly programmed. - Wikipedia
+
 For more than a week, I looked at the introduction and uses of ML and lots of correlated
 disciplines within the field and it can get easily overwhelming.
 
