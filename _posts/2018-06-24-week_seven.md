@@ -69,6 +69,6 @@ Check out this [Decision Tree and Random Forests notebook] working on sample kyp
 
 So that was the Seventh week.. 🔏
 
-[Decision Tree and Random Forests notebook]: https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/Decision-Trees_and_Random_Forests.html
+[Decision Tree and Random Forests notebook]: https://github.com/4bic/deliberate_practice/blob/master/jupyter%20notebooks/Decision-Trees-and-Random-Forests/Decision-Trees_and_Random_Forests_fdns.ipynb
 
-[notebook on fruit classification]:https://raw.githubusercontent.com/4bic/4bic.github.io/master/notebooks/intro_to_k-NN.html
+[notebook on fruit classification]:https://github.com/4bic-attic/data_school/blob/data_school/applied_ML-Coursera/module1.ipynb
