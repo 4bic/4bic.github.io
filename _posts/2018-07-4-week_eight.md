@@ -32,4 +32,4 @@ Sample notebook with [iris dataset classification using SVM]
 
 So that was the Eighth week.. 🔏
 
-[iris dataset classification using SVM]:# https://github.com/4bic/deliberate_practice/blob/master/jupyter%20notebooks/Support-Vector-Machines/svm_project.ipynb
+[iris dataset classification using SVM]:https://github.com/4bic/deliberate_practice/blob/master/jupyter%20notebooks/Support-Vector-Machines/svm_project.ipynb
