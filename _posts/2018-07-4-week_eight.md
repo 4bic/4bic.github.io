@@ -4,7 +4,7 @@ bigimg: /img/wk-8.jpeg
 comments: true
 tags: [Support Vector Machines, Maximal Margin Classifier, GridsearchCV]
 ---
-Immersing self in machine learnings, regression and classification problems can be solved through a variety of steps. For this week the focus is on:
+By definition; Support vector machine (SVM) is an extension of the support vector classifier that results from enlarging the feature space in a specific way, using kernels. 📖
 
 ### What new skills have you learned?
 
