@@ -1,7 +1,15 @@
+---
+title: week ten - Principal Component Analysis.
+bigimg: /img/wk-10.jpeg
+comments: true
+tags: [PCA,analysis, compression algorithm]
+---
 
 # Principal Component Analysis
 
 PCA is just a transformation of your data and attempts to find out what features explain the most variance in your data
+
+
 
 #### Import Libraries
 
@@ -294,7 +302,7 @@ plt.ylabel('Second Principal Component')
 
 
 
-![png](output_23_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/img/pca_scatter.png)
 
 
 Clearly by using these two components easily separate these two classes.
@@ -463,7 +471,7 @@ sns.heatmap(df_comp,cmap='plasma')
 
 
 
-![png](output_29_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/img/pca_heat.png)
 
 
 This heatmap and the color bar basically represent the correlation between the various feature and the principal component itself.
