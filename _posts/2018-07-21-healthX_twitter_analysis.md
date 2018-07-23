@@ -6,14 +6,14 @@ tags: [text analysis, twitter restAPI, text mining]
 ---
 For a start, install the following pachages:
 
-    - Tweepy
-    - json
-    - pandas
-    - matplotlib
-    - seaborn
-    - re
-    - nltk
-    
+📦  Tweepy                  📦  json
+
+📦  pandas                  📦  matplotlib
+
+📦  seaborn                 📦  re  
+
+📦  nltk
+
 
 I'll be using **[Health_X](https://twitter.com/healthx_africa)**'s tweets for the purpose of this analysis.
 
@@ -122,15 +122,14 @@ plt.tight_layout()
 ```jupyter
 top_ten_tweets = df['favorite_count'].sort_values(ascending=False).head(10) # returns a df with first column = index, second column = tweet
 
-print(twitter_id + "'s top 10 tweets (using favorite count)" + "\n")
-for i in range(10):
+print(twitter_id + "'s top 5 tweets (using favorite count)" + "\n")
+for i in range(5):
     index = top_ten_tweets.index[i]
     print(str(i+1) + ")" + df.iloc[index]['text'])
     print("Favorite count: " + str(df.iloc[index]['favorite_count']) + "\n")
 
 ```
-
-    healthx_africa's top 10 tweets (using favorite count)
+    healthx_africa's top 5 tweets (using favorite count)
 
     1)now counting hours healthx meet panelist i interested key drivers lasting health chang
     Favorite count: 12
@@ -146,23 +145,6 @@ for i in range(10):
 
     5)if serious uhc mobilising domestic resources uhc critical im kenyans driven
     Favorite count: 6
-
-    6)what next uhc kenya 23 march 2018 brought ek consulting strathmore business school
-    Favorite count: 6
-
-    7)universal health coverage one big four agenda what now how kenya implement who key ac
-    Favorite count: 6
-
-    8)despite benefits bigdata iot etc make decisions use information data
-    Favorite count: 6
-
-    9)just 2 hrs left 1st healthx looking friday plan join dr stella bosire our 4th panelist represent
-    Favorite count: 5
-
-    10)indeed big 4 specific affordable healthcare all uhc could pathway achieve
-    Favorite count: 5
-
-
 
 ### Word Frequency
 
