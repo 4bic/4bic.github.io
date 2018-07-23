@@ -7,13 +7,13 @@ subtitle: Why you'd want to go on a date with me
 My name is Robin Kiplangat. I have the following qualities:
 
 - I'm looking forward to rocking a great mustache
-- I'm loyal to my family
+- I'm loyal to my family 
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm a lot of thing to different people, ain't we all 😄.
+To be honest, I'm a lot of things to different people, then again ain't we all 😄.
 
 An idealist mostly with a determination and reliability to surmount obstacles, handle obligations and one
 who endeavors for excellence in existence.
