@@ -1,10 +1,11 @@
 ---
 title: Text mining and analysis with  tweets
-bigimg: /img/wk-10.jpeg
+bigimg: /img/letters.jpeg
 comments: true
 tags: [text analysis, twitter restAPI, text mining]
 ---
 For a start, install the following pachages:
+
     - Tweepy
     - json
     - pandas
@@ -12,6 +13,7 @@ For a start, install the following pachages:
     - seaborn
     - re
     - nltk
+    
 
 I'll be using **[Health_X](https://twitter.com/healthx_africa)**'s tweets for the purpose of this analysis.
 
