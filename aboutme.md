@@ -7,16 +7,18 @@ subtitle: Why you'd want to go on a date with me
 My name is Robin Kiplangat. I have the following qualities:
 
 - I'm looking forward to rocking a great mustache
-- I'm extremely loyal to my family
+- I'm loyal to my family
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now,
-at least I know within lies a determination and reliability to surmount obstacles, handle obligations and to endeavor for excellence in existence.
+To be honest, I'm a lot of thing to different people, ain't we all 😄.
 
-The love, respect, and support of those who continue to impact values as I progress through life still holds.
+An idealist mostly with a determination and reliability to surmount obstacles, handle obligations and one
+who endeavors for excellence in existence.
+
+The love, respect, and support of those who continue to impact great values as I progress through life still holds.
 
 I seek strength that would help me balance any tendencies of turning into a self-opinionated moron.
 
