@@ -126,8 +126,7 @@ sns.heatmap(train.isnull(),yticklabels=False,cbar=False,cmap='viridis')
 
 ```
 
-![png](/img/titanic_soln/titanic_5_1.png)
-
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/img/titanic_soln/titanic_5_1.png)
 
 #### Visualizing some more of the data
 
@@ -138,7 +137,7 @@ analysis by column. By Survival
 sns.countplot(x='Survived',data=train)
 ```
 
-![png](/img/titanic_soln/titanic_7_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/img/titanic_soln/titanic_7_1.png)
 
 
 #### Survival by Gender
@@ -148,7 +147,7 @@ sns.countplot(x='Survived',data=train)
 sns.countplot(x='Survived',hue='Sex',data=train,palette='RdBu_r')
 ```
 
-![png](/img/titanic_soln/titanic_9_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/img/titanic_soln/titanic_9_1.png)
 
 
 #### Survival by Passenger Class
@@ -158,7 +157,7 @@ sns.countplot(x='Survived',hue='Sex',data=train,palette='RdBu_r')
 sns.countplot(x='Survived',hue='Pclass',data=train)
 ```
 
-![png](/img/titanic_soln/titanic_11_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/img/titanic_soln/titanic_11_1.png)
 
 
 #### Distribution of Passengers on board by Age
@@ -168,7 +167,7 @@ sns.countplot(x='Survived',hue='Pclass',data=train)
 sns.distplot(train['Age'].dropna(),kde=False,bins=30)
 ```
 
-![png](/img/titanic_soln/titanic_13_2.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/img/titanic_soln/titanic_13_2.png)
 
 
 #### Passengers onboard with sibling(s) / spouse
@@ -178,7 +177,7 @@ sns.distplot(train['Age'].dropna(),kde=False,bins=30)
 sns.countplot(x='SibSp',data=train)
 ```
 
-![png](/img/titanic_soln/titanic_15_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/img/titanic_soln/titanic_15_1.png)
 
 
 #### Passengers by amount of fare paid
@@ -188,7 +187,7 @@ sns.countplot(x='SibSp',data=train)
 train['Fare'].hist(bins=20,figsize=(10,5))
 ```
 
-![png](/img/titanic_soln/titanic_17_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/img/titanic_soln/titanic_17_1.png)
 
 
 # Data Cleaning
@@ -206,7 +205,7 @@ sns.boxplot(x='Pclass',y='Age',data=train)
 ```
 
 
-![png](/img/titanic_soln/titanic_19_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/img/titanic_soln/titanic_19_1.png)
 
 
 Wealthier passengers in the higher classes tend to be older,
@@ -248,7 +247,7 @@ sns.heatmap(train.isnull(),yticklabels=False,cbar=False,cmap='viridis')
 
 ```
 
-![png](/img/titanic_soln/titanic_25_1.png)
+![png](https://raw.githubusercontent.com/4bic/4bic.github.io/master/img/titanic_soln/titanic_25_1.png)
 
 
 We can Drop the `Cabin` column as it possesses a huge percentage of missing values and filling
