@@ -1,6 +1,6 @@
 ---
 title: Getting started with Kaggle Titanic problem  using Logistic Regression
-bigimg: /img/workers-construction.jpeg
+bigimg: /img/ship.jpeg
 comments: true
 tags: [kaggle, LogisticRegression, data analysis]
 ---
